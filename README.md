@@ -9,6 +9,7 @@ This project aims to predict credit card approval using applicant features throu
 •	Compared the performance of these algorithms to identify the most effective model for predicting credit card approval.
 #COLAB NOTEBOOK LINK:
 https://colab.research.google.com/drive/1_zkZbeYMgawu2YoPZKPofidJKZIwfHt4?usp=sharing
+
 #PROJECT PRESENTATION LINK:
 https://drive.google.com/file/d/1pzFlBC9-Z2GlzczTAx5Ce07kaIdaeGik/view?usp=sharing
 
