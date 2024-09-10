@@ -7,6 +7,7 @@ This project aims to predict credit card approval using applicant features throu
 •	Conducted Exploratory Data Analysis to understand the dataset and compare variables, with feature selection based on statistical significance tests.
 •	Applied various machine learning algorithms, including Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machines (SVM), Decision Tree, Random Forest, Bagging, and Boosting.
 •	Compared the performance of these algorithms to identify the most effective model for predicting credit card approval.
+
 #COLAB NOTEBOOK LINK:
 https://colab.research.google.com/drive/1_zkZbeYMgawu2YoPZKPofidJKZIwfHt4?usp=sharing
 
